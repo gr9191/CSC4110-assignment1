@@ -1,6 +1,6 @@
 # Github and git conflict
 
-# Github and git
+# Github github
 # CSC4110-assignment1
 Bashar Nasir
 gr9191
